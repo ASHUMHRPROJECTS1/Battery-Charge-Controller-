@@ -31,12 +31,12 @@
 **Talking about electronics**
 
 > After making the circuit diagram I transformed it into a PCB design to
-> produce it, to produce the PCB, I have chosen the best PCB supplier
+> produce it, to produce the PCB, I have chosen [JLCPCB](https://jlcpcb.com/IYB)[ ](https://jlcpcb.com/IYB) the best PCB supplier
 > and the cheapest PCB provider to order my circuit. with
 > the reliable platform, all I need to do is some simple clicks to upload
 > the Gerber file and set some parameters like the PCB thickness color
 > and quantity. I've paid just 2 Dollars to get my PCB after five days
-> only, what I have noticed about this time is the "out-of-charge PCB
+> only, what I have noticed about [JLCPCB](https://jlcpcb.com/IYB)[ ](https://jlcpcb.com/IYB) this time is the "out-of-charge PCB
 > color" which means you will pay only 2USD for any PCB color you choose.
 
 **Related Download Files**
@@ -139,7 +139,7 @@ Respective Holes or Places.**
 ![](vertopal_3bbd743daa0a45e7b482215f161a3a20/media/image42.png)
 ![](vertopal_3bbd743daa0a45e7b482215f161a3a20/media/image43.png)
 
-> **New users will also get some coupons while registering at JLCPCB via this
+> **New users will also get some coupons while registering at [JLCPCB](https://jlcpcb.com/IYB)[ ](https://jlcpcb.com/IYB) via this
 > blue link.**
 >
 **Thank you for reading this guide, hopefully, this guide provides full steps to help you to create your own Battery Charge Controller. If you have any questions please post them in the comment section below.**
