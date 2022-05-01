@@ -47,6 +47,7 @@
 > soldering steps. You can also download the Gerber file for this circuit
 > from the download link below in case you want to place an order for
 > the same circuit design.
+
 ![](vertopal_3bbd743daa0a45e7b482215f161a3a20/media/image6.png)
 ![](vertopal_3bbd743daa0a45e7b482215f161a3a20/media/image8.png)
 ![](vertopal_3bbd743daa0a45e7b482215f161a3a20/media/image9.png)
